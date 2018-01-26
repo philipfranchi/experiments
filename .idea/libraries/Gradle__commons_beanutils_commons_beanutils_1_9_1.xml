@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: commons-beanutils:commons-beanutils:1.9.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-beanutils/commons-beanutils/1.9.1/d2662a4e018671ed061e9acca6299a31b7652f3c/commons-beanutils-1.9.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-beanutils/commons-beanutils/1.9.1/44a8b7377eb4156f8a610985ed73e0395285f261/commons-beanutils-1.9.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

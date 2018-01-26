@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DozerTest.iml" filepath="$PROJECT_DIR$/.idea/modules/DozerTest.iml" group="DozerTest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DozerTest/DozerTest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/DozerTest/DozerTest_main.iml" group="DozerTest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DozerTest/DozerTest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/DozerTest/DozerTest_test.iml" group="DozerTest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/experiments.iml" filepath="$PROJECT_DIR$/.idea/modules/experiments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/experiments_main.iml" filepath="$PROJECT_DIR$/.idea/modules/experiments_main.iml" group="experiments" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/experiments_test.iml" filepath="$PROJECT_DIR$/.idea/modules/experiments_test.iml" group="experiments" />
+    </modules>
+  </component>
+</project>
