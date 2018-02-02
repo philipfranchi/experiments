@@ -6,6 +6,10 @@
       <module name="DozerTest_test" target="1.8" />
       <module name="experiments_main" target="1.8" />
       <module name="experiments_test" target="1.8" />
+      <module name="HibernateValidatorTest_main" target="1.8" />
+      <module name="HibernateValidatorTest_test" target="1.8" />
+      <module name="SpringCronTest_main" target="1.8" />
+      <module name="SpringCronTest_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

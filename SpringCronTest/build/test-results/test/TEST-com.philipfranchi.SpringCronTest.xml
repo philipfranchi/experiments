@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.philipfranchi.SpringCronTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-02-02T16:59:00" hostname="nympen54232.us.randomhouse.com" time="0.053">
+  <properties/>
+  <testcase name="canParseCronExpression" classname="com.philipfranchi.SpringCronTest" time="0.053"/>
+  <system-out><![CDATA[Next Time2018-02-02T18:00:00Z
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

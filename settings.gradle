@@ -1,3 +1,5 @@
 rootProject.name = 'experiments'
 include 'DozerTest'
+include 'HibernateValidatorTest'
+include 'SpringCronTest'
 

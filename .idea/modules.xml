@@ -5,6 +5,12 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/DozerTest.iml" filepath="$PROJECT_DIR$/.idea/modules/DozerTest.iml" group="DozerTest" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/DozerTest/DozerTest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/DozerTest/DozerTest_main.iml" group="DozerTest" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/DozerTest/DozerTest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/DozerTest/DozerTest_test.iml" group="DozerTest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HibernateValidatorTest.iml" filepath="$PROJECT_DIR$/.idea/modules/HibernateValidatorTest.iml" group="HibernateValidatorTest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HibernateValidatorTest/HibernateValidatorTest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/HibernateValidatorTest/HibernateValidatorTest_main.iml" group="HibernateValidatorTest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HibernateValidatorTest/HibernateValidatorTest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/HibernateValidatorTest/HibernateValidatorTest_test.iml" group="HibernateValidatorTest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringCronTest.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringCronTest.iml" group="SpringCronTest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringCronTest/SpringCronTest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringCronTest/SpringCronTest_main.iml" group="SpringCronTest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringCronTest/SpringCronTest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringCronTest/SpringCronTest_test.iml" group="SpringCronTest" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/experiments.iml" filepath="$PROJECT_DIR$/.idea/modules/experiments.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/experiments_main.iml" filepath="$PROJECT_DIR$/.idea/modules/experiments_main.iml" group="experiments" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/experiments_test.iml" filepath="$PROJECT_DIR$/.idea/modules/experiments_test.iml" group="experiments" />
