@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.coverity.security:coverity-escapers:1.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.coverity.security/coverity-escapers/1.1/5602837daaf4973eb1def46b7d898aea3785fc39/coverity-escapers-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.coverity.security/coverity-escapers/1.1/42306f0c378727575bc3a06a1451354fc6baa2d1/coverity-escapers-1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

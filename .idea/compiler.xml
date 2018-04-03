@@ -8,8 +8,14 @@
       <module name="experiments_test" target="1.8" />
       <module name="HibernateValidatorTest_main" target="1.8" />
       <module name="HibernateValidatorTest_test" target="1.8" />
+      <module name="PebbleTest_main" target="1.8" />
+      <module name="PebbleTest_test" target="1.8" />
+      <module name="QuartzTest_main" target="1.8" />
+      <module name="QuartzTest_test" target="1.8" />
       <module name="SpringCronTest_main" target="1.8" />
       <module name="SpringCronTest_test" target="1.8" />
+      <module name="SpringTest_main" target="1.8" />
+      <module name="SpringTest_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
