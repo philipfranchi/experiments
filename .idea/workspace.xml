@@ -2,117 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7cc5daa-e588-4d13-b14b-100624c1f0b7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_coverity_security_coverity_escapers_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_8_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_8_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_guava_16_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jayway_jsonpath_json_path_2_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_mchange_c3p0_0_9_5_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_mchange_mchange_commons_java_0_2_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_mitchellbosecke_pebble_2_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_zaxxer_HikariCP_java6_2_3_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_minidev_accessors_smart_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_minidev_json_smart_2_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_core_8_5_14.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_el_8_5_14.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_14.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_assertj_assertj_core_2_6_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_mockito_mockito_core_1_10_19.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_objenesis_objenesis_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_ow2_asm_asm_5_0_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_quartz_scheduler_quartz_2_3_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_skyscreamer_jsonassert_1_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_test_1_5_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_tomcat_1_5_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_web_1_5_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_test_1_5_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_test_autoconfigure_1_5_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_test_4_3_8_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_web_4_3_8_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_webmvc_4_3_8_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/DozerTest/DozerTest.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/HibernateValidatorTest/HibernateValidatorTest.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/PebbleTest.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/PebbleTest/PebbleTest.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/QuartzTest.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/QuartzTest/QuartzTest.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/SpringTest.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/SpringTest/SpringTest.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/philipfranchi/springconfig/AppProps.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/philipfranchi/springconfig/Foo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/philipfranchi/springconfig/FooConfing.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/philipfranchi/springconfig/SubContentConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/philipfranchi/springconfig/SubContentModule.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/philipfranchi/pebble/PebbleTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/philipfranchi/quartz/QuartzCronTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/philipfranchi/spring/DummyController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/philipfranchi/spring/SpringTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/philipfranchi/spring/SprintTestConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/philipfranchi/springconfig/FooConfigTest.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__ch_qos_logback_logback_classic_1_1_7.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__ch_qos_logback_logback_core_1_1_7.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_jcl_over_slf4j_1_7_5.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules/DozerTest/DozerTest_main.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules/DozerTest/DozerTest_test.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules/HibernateValidatorTest/HibernateValidatorTest_main.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules/HibernateValidatorTest/HibernateValidatorTest_test.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules/SpringCronTest.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules/SpringCronTest/SpringCronTest_main.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules/SpringCronTest/SpringCronTest_test.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DozerTest/build.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DozerTest/build/classes/main/com/philipfranchi/BarObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DozerTest/build/classes/main/com/philipfranchi/FooObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DozerTest/build/classes/test/com/philipfranchi/DozerTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DozerTest/build/reports/tests/test/classes/com.philipfranchi.DozerTest.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DozerTest/build/reports/tests/test/css/base-style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DozerTest/build/reports/tests/test/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DozerTest/build/reports/tests/test/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DozerTest/build/reports/tests/test/js/report.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DozerTest/build/resources/main/mappings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DozerTest/build/test-results/test/TEST-com.philipfranchi.DozerTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DozerTest/build/test-results/test/binary/output.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DozerTest/build/test-results/test/binary/output.bin.idx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HibernateValidatorTest/build.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HibernateValidatorTest/build/classes/main/com/philipfranchi/hibernateValidator/Foo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HibernateValidatorTest/build/classes/main/com/philipfranchi/hibernateValidator/StringInSet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HibernateValidatorTest/build/classes/main/com/philipfranchi/hibernateValidator/StringInSetValidator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HibernateValidatorTest/build/classes/test/com/philipfranchi/hibernateValidator/hibernateValidatorTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HibernateValidatorTest/build/reports/tests/test/classes/com.philipfranchi.hibernateValidator.hibernateValidatorTest.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HibernateValidatorTest/build/reports/tests/test/css/base-style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HibernateValidatorTest/build/reports/tests/test/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HibernateValidatorTest/build/reports/tests/test/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HibernateValidatorTest/build/reports/tests/test/js/report.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HibernateValidatorTest/build/reports/tests/test/packages/com.philipfranchi.hibernateValidator.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HibernateValidatorTest/build/test-results/test/TEST-com.philipfranchi.hibernateValidator.hibernateValidatorTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HibernateValidatorTest/build/test-results/test/binary/output.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HibernateValidatorTest/build/test-results/test/binary/output.bin.idx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HibernateValidatorTest/build/test-results/test/binary/results.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringCronTest/build.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringCronTest/build/classes/test/com/philipfranchi/SpringCronTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringCronTest/build/reports/tests/test/classes/com.philipfranchi.SpringCronTest.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringCronTest/build/reports/tests/test/css/base-style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringCronTest/build/reports/tests/test/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringCronTest/build/reports/tests/test/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringCronTest/build/reports/tests/test/js/report.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringCronTest/build/reports/tests/test/packages/com.philipfranchi.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringCronTest/build/test-results/test/TEST-com.philipfranchi.SpringCronTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringCronTest/build/test-results/test/binary/output.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringCronTest/build/test-results/test/binary/output.bin.idx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringCronTest/build/test-results/test/binary/results.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringCronTest/src/test/java/com/philipfranchi/SpringCronTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringTest/build/reports/tests/test/packages/com.philipfranchi.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringTest/build/test-results/test/TEST-com.philipfranchi.SpringCronTest.xml" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DozerTest/src/main/java/com/philipfranchi/BarObject.java" afterPath="$PROJECT_DIR$/src/main/java/com/philipfranchi/dozer/BarObject.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DozerTest/src/main/java/com/philipfranchi/FooObject.java" afterPath="$PROJECT_DIR$/src/main/java/com/philipfranchi/dozer/FooObject.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DozerTest/src/main/resources/mappings.xml" afterPath="$PROJECT_DIR$/src/main/resources/mappings.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DozerTest/src/test/java/com/philipfranchi/DozerTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/philipfranchi/dozer/DozerTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HibernateValidatorTest/src/main/java/com/philipfranchi/hibernateValidator/Foo.java" afterPath="$PROJECT_DIR$/src/main/java/com/philipfranchi/hibernateValidator/Foo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HibernateValidatorTest/src/main/java/com/philipfranchi/hibernateValidator/StringInSet.java" afterPath="$PROJECT_DIR$/src/main/java/com/philipfranchi/hibernateValidator/StringInSet.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HibernateValidatorTest/src/main/java/com/philipfranchi/hibernateValidator/StringInSetValidator.java" afterPath="$PROJECT_DIR$/src/main/java/com/philipfranchi/hibernateValidator/StringInSetValidator.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HibernateValidatorTest/src/test/java/com/philipfranchi/hibernateValidator/hibernateValidatorTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/philipfranchi/hibernateValidator/hibernateValidatorTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_projectlombok_lombok_1_16_18.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/philipfranchi/basic/TimeTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/philipfranchi/springConfigurationProperties/CloudFormationBeanFactoryPostProcessor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/philipfranchi/springConfigurationProperties/S3BeanFactoryPostProcessor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/philipfranchi/springConfigurationProperties/S3Properties.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/philipfranchi/springConfigurationProperties/TestConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/philipfranchi/springConfigurationProperties/TestConfigTest.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules/DozerTest/DozerTest.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules/HibernateValidatorTest/HibernateValidatorTest.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules/PebbleTest/PebbleTest.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules/QuartzTest/QuartzTest.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules/SpringTest/SpringTest.iml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.5-rc-2/fileContent/annotation-processors.bin" afterPath="$PROJECT_DIR$/.gradle/3.5-rc-2/fileContent/annotation-processors.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.5-rc-2/fileContent/fileContent.lock" afterPath="$PROJECT_DIR$/.gradle/3.5-rc-2/fileContent/fileContent.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/fileHashes.bin" />
@@ -127,7 +28,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/experiments_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/experiments_test.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings.gradle" afterPath="$PROJECT_DIR$/settings.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/philipfranchi/dozer/DozerTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/philipfranchi/dozer/DozerTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -177,12 +78,26 @@
         <task path="$PROJECT_DIR$/QuartzTest">
           <activation />
         </task>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
             <expand>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="experiments" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="experiments" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="experiments" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
               </path>
             </expand>
             <select />
@@ -192,7 +107,72 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="S3Properties.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/philipfranchi/springConfigurationProperties/S3Properties.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CloudFormationBeanFactoryPostProcessor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/philipfranchi/springConfigurationProperties/CloudFormationBeanFactoryPostProcessor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="499">
+              <caret line="29" column="36" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestConfig.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/philipfranchi/springConfigurationProperties/TestConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#699#700#0" expanded="true" />
+                <element signature="e#740#741#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="S3BeanFactoryPostProcessor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/philipfranchi/springConfigurationProperties/S3BeanFactoryPostProcessor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="496">
+              <caret line="31" column="48" lean-forward="false" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestConfigTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/philipfranchi/springConfigurationProperties/TestConfigTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="15" column="24" lean-forward="false" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#545#546#0" expanded="true" />
+                <element signature="e#614#615#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -235,26 +215,6 @@
               <ExternalProjectPojo>
                 <option name="name" value="experiments" />
                 <option name="path" value="$PROJECT_DIR$" />
-              </ExternalProjectPojo>
-              <ExternalProjectPojo>
-                <option name="name" value=":DozerTest" />
-                <option name="path" value="$PROJECT_DIR$/DozerTest" />
-              </ExternalProjectPojo>
-              <ExternalProjectPojo>
-                <option name="name" value=":HibernateValidatorTest" />
-                <option name="path" value="$PROJECT_DIR$/HibernateValidatorTest" />
-              </ExternalProjectPojo>
-              <ExternalProjectPojo>
-                <option name="name" value=":PebbleTest" />
-                <option name="path" value="$PROJECT_DIR$/PebbleTest" />
-              </ExternalProjectPojo>
-              <ExternalProjectPojo>
-                <option name="name" value=":QuartzTest" />
-                <option name="path" value="$PROJECT_DIR$/QuartzTest" />
-              </ExternalProjectPojo>
-              <ExternalProjectPojo>
-                <option name="name" value=":SpringTest" />
-                <option name="path" value="$PROJECT_DIR$/SpringTest" />
               </ExternalProjectPojo>
             </list>
           </value>
@@ -327,7 +287,7 @@
                 <option name="name" value="processResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the tasks runnable from root project 'experiments' (some of the displayed tasks may belong to subprojects)." />
+                <option name="description" value="Displays the tasks runnable from root project 'experiments'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="tasks" />
               </ExternalTaskPojo>
@@ -404,299 +364,19 @@
             </list>
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/DozerTest">
-          <value>
-            <list>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the components produced by project ':DozerTest'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/DozerTest" />
-                <option name="name" value="components" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the sub-projects of project ':DozerTest'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/DozerTest" />
-                <option name="name" value="projects" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the dependent components of components in project ':DozerTest'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/DozerTest" />
-                <option name="name" value="dependentComponents" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays all buildscript dependencies declared in project ':DozerTest'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/DozerTest" />
-                <option name="name" value="buildEnvironment" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the insight into a specific dependency in project ':DozerTest'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/DozerTest" />
-                <option name="name" value="dependencyInsight" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays all dependencies declared in project ':DozerTest'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/DozerTest" />
-                <option name="name" value="dependencies" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays a help message." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/DozerTest" />
-                <option name="name" value="help" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the configuration model of project ':DozerTest'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/DozerTest" />
-                <option name="name" value="model" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the properties of project ':DozerTest'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/DozerTest" />
-                <option name="name" value="properties" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the tasks runnable from project ':DozerTest'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/DozerTest" />
-                <option name="name" value="tasks" />
-              </ExternalTaskPojo>
-            </list>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/HibernateValidatorTest">
-          <value>
-            <list>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the components produced by project ':HibernateValidatorTest'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/HibernateValidatorTest" />
-                <option name="name" value="components" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the sub-projects of project ':HibernateValidatorTest'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/HibernateValidatorTest" />
-                <option name="name" value="projects" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the dependent components of components in project ':HibernateValidatorTest'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/HibernateValidatorTest" />
-                <option name="name" value="dependentComponents" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays all buildscript dependencies declared in project ':HibernateValidatorTest'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/HibernateValidatorTest" />
-                <option name="name" value="buildEnvironment" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the insight into a specific dependency in project ':HibernateValidatorTest'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/HibernateValidatorTest" />
-                <option name="name" value="dependencyInsight" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays all dependencies declared in project ':HibernateValidatorTest'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/HibernateValidatorTest" />
-                <option name="name" value="dependencies" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays a help message." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/HibernateValidatorTest" />
-                <option name="name" value="help" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the configuration model of project ':HibernateValidatorTest'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/HibernateValidatorTest" />
-                <option name="name" value="model" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the properties of project ':HibernateValidatorTest'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/HibernateValidatorTest" />
-                <option name="name" value="properties" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the tasks runnable from project ':HibernateValidatorTest'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/HibernateValidatorTest" />
-                <option name="name" value="tasks" />
-              </ExternalTaskPojo>
-            </list>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/PebbleTest">
-          <value>
-            <list>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the components produced by project ':PebbleTest'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/PebbleTest" />
-                <option name="name" value="components" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the sub-projects of project ':PebbleTest'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/PebbleTest" />
-                <option name="name" value="projects" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the dependent components of components in project ':PebbleTest'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/PebbleTest" />
-                <option name="name" value="dependentComponents" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays all buildscript dependencies declared in project ':PebbleTest'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/PebbleTest" />
-                <option name="name" value="buildEnvironment" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the insight into a specific dependency in project ':PebbleTest'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/PebbleTest" />
-                <option name="name" value="dependencyInsight" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays all dependencies declared in project ':PebbleTest'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/PebbleTest" />
-                <option name="name" value="dependencies" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays a help message." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/PebbleTest" />
-                <option name="name" value="help" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the configuration model of project ':PebbleTest'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/PebbleTest" />
-                <option name="name" value="model" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the properties of project ':PebbleTest'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/PebbleTest" />
-                <option name="name" value="properties" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the tasks runnable from project ':PebbleTest'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/PebbleTest" />
-                <option name="name" value="tasks" />
-              </ExternalTaskPojo>
-            </list>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/QuartzTest">
-          <value>
-            <list>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the components produced by project ':QuartzTest'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/QuartzTest" />
-                <option name="name" value="components" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the sub-projects of project ':QuartzTest'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/QuartzTest" />
-                <option name="name" value="projects" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the dependent components of components in project ':QuartzTest'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/QuartzTest" />
-                <option name="name" value="dependentComponents" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays all buildscript dependencies declared in project ':QuartzTest'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/QuartzTest" />
-                <option name="name" value="buildEnvironment" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the insight into a specific dependency in project ':QuartzTest'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/QuartzTest" />
-                <option name="name" value="dependencyInsight" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays all dependencies declared in project ':QuartzTest'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/QuartzTest" />
-                <option name="name" value="dependencies" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays a help message." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/QuartzTest" />
-                <option name="name" value="help" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the configuration model of project ':QuartzTest'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/QuartzTest" />
-                <option name="name" value="model" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the properties of project ':QuartzTest'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/QuartzTest" />
-                <option name="name" value="properties" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the tasks runnable from project ':QuartzTest'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/QuartzTest" />
-                <option name="name" value="tasks" />
-              </ExternalTaskPojo>
-            </list>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/SpringTest">
-          <value>
-            <list>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the components produced by project ':SpringTest'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SpringTest" />
-                <option name="name" value="components" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the sub-projects of project ':SpringTest'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SpringTest" />
-                <option name="name" value="projects" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the dependent components of components in project ':SpringTest'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SpringTest" />
-                <option name="name" value="dependentComponents" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays all buildscript dependencies declared in project ':SpringTest'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SpringTest" />
-                <option name="name" value="buildEnvironment" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the insight into a specific dependency in project ':SpringTest'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SpringTest" />
-                <option name="name" value="dependencyInsight" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays all dependencies declared in project ':SpringTest'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SpringTest" />
-                <option name="name" value="dependencies" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays a help message." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SpringTest" />
-                <option name="name" value="help" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the configuration model of project ':SpringTest'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SpringTest" />
-                <option name="name" value="model" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the properties of project ':SpringTest'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SpringTest" />
-                <option name="name" value="properties" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the tasks runnable from project ':SpringTest'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/SpringTest" />
-                <option name="name" value="tasks" />
-              </ExternalTaskPojo>
-            </list>
-          </value>
-        </entry>
       </map>
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="4562364051000" />
+        <entry key="$PROJECT_DIR$" value="4563244157000" />
         <entry key="$PROJECT_DIR$/DozerTest/build.gradle" value="3202936033" />
         <entry key="$PROJECT_DIR$/HibernateValidatorTest/build.gradle" value="2503476957" />
         <entry key="$PROJECT_DIR$/PebbleTest/build.gradle" value="1619380420" />
         <entry key="$PROJECT_DIR$/QuartzTest/build.gradle" value="1168664110" />
         <entry key="$PROJECT_DIR$/SpringCronTest/build.gradle" value="3522273021" />
         <entry key="$PROJECT_DIR$/SpringTest/build.gradle" value="2256440466" />
-        <entry key="$PROJECT_DIR$/build.gradle" value="2574759922" />
-        <entry key="$PROJECT_DIR$/settings.gradle" value="3588503922" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="116329853" />
+        <entry key="$PROJECT_DIR$/settings.gradle" value="2449423969" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -846,8 +526,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/DozerTest/src/test/java/DozerTest.java" />
-        <option value="$PROJECT_DIR$/DozerTest/src/main/java/TestObject.java" />
         <option value="$PROJECT_DIR$/DozerTest/src/main/java/com/philipfranchi/TestObject.java" />
         <option value="$PROJECT_DIR$/DozerTest/src/main/java/com/philipfranchi/BarObject.java" />
         <option value="$PROJECT_DIR$/DozerTest/src/main/java/com/philipfranchi/FooObject.java" />
@@ -885,14 +563,20 @@
         <option value="$PROJECT_DIR$/PebbleTest/build.gradle" />
         <option value="$PROJECT_DIR$/PebbleTest/src/test/java/com/philipfranchi/pebbletest/PebbleTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/philipfranchi/quartztest/QuartzCronTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/philipfranchi/dozer/DozerTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/philipfranchi/dozer/FooObject.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/philipfranchi/spring/SprintTestConfig.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/philipfranchi/basic/IsbnRecommendation.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/philipfranchi/basic/TitleToTitleModule.java" />
         <option value="$PROJECT_DIR$/settings.gradle" />
-        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/test/java/com/philipfranchi/pebble/PebbleTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/philipfranchi/basic/TimeTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/philipfranchi/dozer/DozerTest.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/test/java/com/philipfranchi/springConfigurationProperties/S3Properties.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/philipfranchi/springConfigurationProperties/S3BeanFactoryPostProcessor.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/philipfranchi/springConfigurationProperties/TestConfigTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/philipfranchi/springConfigurationProperties/CloudFormationBeanFactoryPostProcessor.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/philipfranchi/springConfigurationProperties/TestConfig.java" />
       </list>
     </option>
   </component>
@@ -918,7 +602,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -927,10 +610,46 @@
               <item name="experiments" type="b2602c69:ProjectViewProjectNode" />
               <item name="experiments" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
+            <path>
+              <item name="experiments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="experiments" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="experiments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="experiments" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="experiments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="experiments" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="experiments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="experiments" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="philipfranchi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="experiments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="experiments" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="philipfranchi" type="462c0819:PsiDirectoryNode" />
+              <item name="springConfigurationProperties" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -966,7 +685,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.PebbleTest.PebbleTest">
+  <component name="RunManager" selected="Gradle.TestConfigTest.s3PropertiesWasSuccessfullyPopulated">
     <configuration name="FooConfigTest.canPrintFoo" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -1003,55 +722,19 @@
         <option name="vmOptions" />
       </ExternalSystemSettings>
     </configuration>
-    <configuration name="QuartzCronTest.canFireTriggerWithBadJob" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="TestConfigTest.s3PropertiesWasSuccessfullyPopulated" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/QuartzTest" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.philipfranchi.QuartzCronTest.canFireTriggerWithBadJob&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.philipfranchi.springConfigurationProperties.TestConfigTest.s3PropertiesWasSuccessfullyPopulated&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
         <option name="taskNames">
           <list>
-            <option value=":QuartzTest:cleanTest" />
-            <option value=":QuartzTest:test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-    </configuration>
-    <configuration name="QuartzCronTest.cronRepeatMonthTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/QuartzTest" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.philipfranchi.QuartzCronTest.cronRepeatMonthTest&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":QuartzTest:cleanTest" />
-            <option value=":QuartzTest:test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-    </configuration>
-    <configuration name="QuartzCronTest.cronRepeatMonthTest2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/QuartzTest" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.philipfranchi.QuartzCronTest.cronRepeatMonthTest2&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":QuartzTest:cleanTest" />
-            <option value=":QuartzTest:test" />
+            <option value=":cleanTest" />
+            <option value=":test" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -1204,6 +887,50 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SpringTest" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SpringTest" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SpringTest" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="DozerTest" />
       <option name="_new_regexPattern" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
@@ -1239,20 +966,54 @@
       <option name="_new_target" value="&quot;&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
+    <configuration name="experiments [buildDependents]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="buildDependents" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+    </configuration>
+    <configuration name="experiments [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Gradle.QuartzCronTest.canFireTriggerWithBadJob" />
-      <item index="1" class="java.lang.String" itemvalue="Gradle.QuartzCronTest.cronRepeatMonthTest" />
-      <item index="2" class="java.lang.String" itemvalue="Gradle.QuartzCronTest.cronRepeatMonthTest2" />
-      <item index="3" class="java.lang.String" itemvalue="Gradle.FooConfigTest.canPrintFoo" />
-      <item index="4" class="java.lang.String" itemvalue="Gradle.PebbleTest.PebbleTest" />
+      <item index="0" class="java.lang.String" itemvalue="Gradle.FooConfigTest.canPrintFoo" />
+      <item index="1" class="java.lang.String" itemvalue="Gradle.PebbleTest.PebbleTest" />
+      <item index="2" class="java.lang.String" itemvalue="Gradle.TestConfigTest.s3PropertiesWasSuccessfullyPopulated" />
+      <item index="3" class="java.lang.String" itemvalue="Gradle.experiments [build]" />
+      <item index="4" class="java.lang.String" itemvalue="Gradle.experiments [buildDependents]" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Gradle.PebbleTest.PebbleTest" />
-        <item index="1" class="java.lang.String" itemvalue="Gradle.FooConfigTest.canPrintFoo" />
-        <item index="2" class="java.lang.String" itemvalue="Gradle.QuartzCronTest.cronRepeatMonthTest2" />
-        <item index="3" class="java.lang.String" itemvalue="Gradle.QuartzCronTest.cronRepeatMonthTest" />
-        <item index="4" class="java.lang.String" itemvalue="Gradle.QuartzCronTest.canFireTriggerWithBadJob" />
+        <item index="0" class="java.lang.String" itemvalue="Gradle.TestConfigTest.s3PropertiesWasSuccessfullyPopulated" />
+        <item index="1" class="java.lang.String" itemvalue="Gradle.experiments [buildDependents]" />
+        <item index="2" class="java.lang.String" itemvalue="Gradle.experiments [build]" />
+        <item index="3" class="java.lang.String" itemvalue="Gradle.PebbleTest.PebbleTest" />
+        <item index="4" class="java.lang.String" itemvalue="Gradle.FooConfigTest.canPrintFoo" />
       </list>
     </recent_temporary>
   </component>
@@ -1270,62 +1031,64 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PebbleTest_PebbleTest - 2018.04.03 at 14h 10m 47s.xml">
-      <configuration name="PebbleTest.PebbleTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="PebbleTest_PebbleTest - 2018.04.03 at 14h 11m 11s.xml">
-      <configuration name="PebbleTest.PebbleTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="PebbleTest_PebbleTest - 2018.04.03 at 14h 11m 25s.xml">
-      <configuration name="PebbleTest.PebbleTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="PebbleTest_PebbleTest - 2018.04.03 at 14h 24m 41s.xml">
-      <configuration name="PebbleTest.PebbleTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="PebbleTest_PebbleTest - 2018.04.03 at 14h 25m 14s.xml">
-      <configuration name="PebbleTest.PebbleTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="QuartzCronTest_cronRepeatMonthTest - 2018.02.21 at 12h 53m 57s.xml">
-      <configuration name="QuartzCronTest.cronRepeatMonthTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="QuartzCronTest_cronRepeatMonthTest - 2018.02.21 at 12h 55m 37s.xml">
-      <configuration name="QuartzCronTest.cronRepeatMonthTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="QuartzCronTest_cronRepeatMonthTest - 2018.02.21 at 15h 37m 09s.xml">
-      <configuration name="QuartzCronTest.cronRepeatMonthTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="QuartzCronTest_cronRepeatMonthTest2 - 2018.02.21 at 15h 59m 46s.xml">
-      <configuration name="QuartzCronTest.cronRepeatMonthTest2" configurationId="GradleRunConfiguration" />
-    </history-entry>
     <history-entry file="QuartzCronTest_cronRepeatMonthTest2 - 2018.02.21 at 16h 00m 02s.xml">
       <configuration name="QuartzCronTest.cronRepeatMonthTest2" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestConfigTest_s3PropertiesWasSuccessfullyPopulated - 2018.04.13 at 11h 40m 36s.xml">
+      <configuration name="TestConfigTest.s3PropertiesWasSuccessfullyPopulated" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestConfigTest_s3PropertiesWasSuccessfullyPopulated - 2018.04.13 at 11h 44m 06s.xml">
+      <configuration name="TestConfigTest.s3PropertiesWasSuccessfullyPopulated" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestConfigTest_s3PropertiesWasSuccessfullyPopulated - 2018.04.13 at 13h 12m 50s.xml">
+      <configuration name="TestConfigTest.s3PropertiesWasSuccessfullyPopulated" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestConfigTest_s3PropertiesWasSuccessfullyPopulated - 2018.04.13 at 13h 30m 47s.xml">
+      <configuration name="TestConfigTest.s3PropertiesWasSuccessfullyPopulated" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestConfigTest_s3PropertiesWasSuccessfullyPopulated - 2018.04.13 at 13h 42m 25s.xml">
+      <configuration name="TestConfigTest.s3PropertiesWasSuccessfullyPopulated" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestConfigTest_s3PropertiesWasSuccessfullyPopulated - 2018.04.13 at 13h 42m 49s.xml">
+      <configuration name="TestConfigTest.s3PropertiesWasSuccessfullyPopulated" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestConfigTest_s3PropertiesWasSuccessfullyPopulated - 2018.04.13 at 13h 43m 04s.xml">
+      <configuration name="TestConfigTest.s3PropertiesWasSuccessfullyPopulated" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestConfigTest_s3PropertiesWasSuccessfullyPopulated - 2018.04.16 at 13h 14m 16s.xml">
+      <configuration name="TestConfigTest.s3PropertiesWasSuccessfullyPopulated" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestConfigTest_s3PropertiesWasSuccessfullyPopulated - 2018.04.16 at 13h 14m 33s.xml">
+      <configuration name="TestConfigTest.s3PropertiesWasSuccessfullyPopulated" configurationId="GradleRunConfiguration" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18500605" sideWeight="0.5028612" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18500605" sideWeight="0.50572246" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18500605" sideWeight="0.49713877" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3579202" sideWeight="0.49427754" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32260424" sideWeight="0.49713877" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32164448" sideWeight="0.49713877" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26466382" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27539343" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32761088" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24980143" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39903265" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.49713877" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991952" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.49713877" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -1342,48 +1105,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/philipfranchi/quartz/QuartzCronTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="47" column="58" lean-forward="false" selection-start-line="47" selection-start-column="58" selection-end-line="47" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/philipfranchi/spring/SpringTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/philipfranchi/spring/DummyController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="20" column="38" lean-forward="false" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/philipfranchi/quartz/QuartzCronTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/philipfranchi/quartz/QuartzCronTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="12" column="65" lean-forward="false" selection-start-line="12" selection-start-column="65" selection-end-line="12" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/philipfranchi/spring/SpringTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -1556,13 +1277,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/philipfranchi/dozer/DozerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/philipfranchi/dozer/BarObject.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-7">
@@ -1584,13 +1298,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/philipfranchi/spring/SpringTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/philipfranchi/spring/DummyController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -1606,28 +1313,99 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/com/philipfranchi/basic/InstanceOfTest.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/com/philipfranchi/basic/TitleToTitleModule.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/com/philipfranchi/basic/IsbnRecommendation.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/philipfranchi/pebble/PebbleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="36" column="8" lean-forward="false" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/philipfranchi/spring/SpringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/philipfranchi/basic/TimeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/settings.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="32" lean-forward="false" selection-start-line="0" selection-start-column="32" selection-end-line="0" selection-end-column="32" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/philipfranchi/dozer/DozerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="26" column="51" lean-forward="false" selection-start-line="26" selection-start-column="51" selection-end-line="26" selection-end-column="51" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="25" column="80" lean-forward="false" selection-start-line="25" selection-start-column="80" selection-end-line="25" selection-end-column="80" />
+        <state relative-caret-position="146">
+          <caret line="19" column="66" lean-forward="true" selection-start-line="19" selection-start-column="66" selection-end-line="19" selection-end-column="66" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/philipfranchi/pebble/PebbleTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/philipfranchi/springConfigurationProperties/S3Properties.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="36" column="8" lean-forward="false" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
+        <state relative-caret-position="198">
+          <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/philipfranchi/springConfigurationProperties/CloudFormationBeanFactoryPostProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="29" column="36" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/philipfranchi/springConfigurationProperties/S3BeanFactoryPostProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="31" column="48" lean-forward="false" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/philipfranchi/springConfigurationProperties/TestConfigTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="24" lean-forward="false" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#545#546#0" expanded="true" />
+            <element signature="e#614#615#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/philipfranchi/springConfigurationProperties/TestConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#699#700#0" expanded="true" />
+            <element signature="e#740#741#0" expanded="true" />
           </folding>
         </state>
       </provider>

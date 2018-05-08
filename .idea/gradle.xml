@@ -10,11 +10,6 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/DozerTest" />
-            <option value="$PROJECT_DIR$/HibernateValidatorTest" />
-            <option value="$PROJECT_DIR$/PebbleTest" />
-            <option value="$PROJECT_DIR$/QuartzTest" />
-            <option value="$PROJECT_DIR$/SpringTest" />
           </set>
         </option>
       </GradleProjectSettings>
